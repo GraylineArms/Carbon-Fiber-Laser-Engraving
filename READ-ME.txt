@@ -1,0 +1,13 @@
+Image CF-1-Raw.png was downloaded from this url;
+https://www.magnific.com/free-vector/fiber-texture-pattern_834832.htm
+
+Image CF-1.png is a modified version of CF-1-Raw.png and is subject to the same licensing requirement. License for these images are in sub folder CF-1-License.
+
+All other files in this repo have no restrictions under CC0. Reference video on Youtube for more details about these files;
+https://youtu.be/rMiMVtd21WQ
+
+
+[DETAILS]
+LASER:	HaoTian 60w MOPA JPT EM7 Split Fiber Galvo Laser
+LENS:	210mm x 210mm
+METAL:	304 Stainless

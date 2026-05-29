@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary DisplayName="Materials">
+    <Material name="304 Stainless">
+        <Entry Thickness="-1.0000" Desc="90°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/90°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="90"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="30°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/30°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="30"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="-30°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/-30°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="-30"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="-90°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/-90°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="-90"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="-150°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/-150°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="-150"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="150°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/150°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="150"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Black" NoThickTitle="Images">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Images/Black"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.0065"/>
+                <angle Value="-90"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+                <ditherMode Value="stucki"/>
+                <dpi Value="3883"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="45°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/45°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="45"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="-45°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/-45°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="-45"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="0°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/0°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="-135°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/-135°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="-135"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="180°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/180°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="180"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="135°" NoThickTitle="Diffraction">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Diffraction/135°"/>
+                <maxPower Value="36"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <frequency Value="100000"/>
+                <QPulseWidth Value="45"/>
+                <bidir Value="0"/>
+                <interval Value="0.065"/>
+                <angle Value="135"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Black (Rainbow Effect)" NoThickTitle="Images">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="304 Stainless/Images/Black (Rainbow Effect)"/>
+                <maxPower Value="88.9"/>
+                <maxPower2 Value="20"/>
+                <speed Value="4000"/>
+                <frequency Value="220000"/>
+                <QPulseWidth Value="4516"/>
+                <bidir Value="0"/>
+                <interval Value="0.002"/>
+                <angle Value="-90"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+                <ditherMode Value="stucki"/>
+                <dpi Value="12700"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
